@@ -9,7 +9,7 @@ ffmpegが必要
 
 require ffmpeg
 
-[install document](http://shadowkrr.hateblo.jp/entry/2016/11/11/105512])
+[install document](http://shadowkrr.hateblo.jp/entry/2016/11/11/105512)
 
 
 参考サイト
